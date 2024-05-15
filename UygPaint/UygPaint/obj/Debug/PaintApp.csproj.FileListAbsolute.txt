@@ -1,0 +1,10 @@
+C:\Users\salih\source\repos\UygPaint\UygPaint\bin\Debug\UygPaint.exe.config
+C:\Users\salih\source\repos\UygPaint\UygPaint\bin\Debug\UygPaint.exe
+C:\Users\salih\source\repos\UygPaint\UygPaint\bin\Debug\UygPaint.pdb
+C:\Users\salih\source\repos\UygPaint\UygPaint\obj\Debug\PaintApp.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\UygPaint\UygPaint\obj\Debug\UygPaint.Form1.resources
+C:\Users\salih\source\repos\UygPaint\UygPaint\obj\Debug\UygPaint.Properties.Resources.resources
+C:\Users\salih\source\repos\UygPaint\UygPaint\obj\Debug\PaintApp.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\UygPaint\UygPaint\obj\Debug\PaintApp.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\UygPaint\UygPaint\obj\Debug\UygPaint.exe
+C:\Users\salih\source\repos\UygPaint\UygPaint\obj\Debug\UygPaint.pdb
